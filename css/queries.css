@@ -1,0 +1,12 @@
+@media (max-width: 28.5em) {
+  .card {
+    grid-template-columns: 1fr;
+    width: 22.5rem;
+  }
+
+  .card-img {
+    height: 15.625rem;
+    background-image: url("../images/image-product-mobile.jpg");
+    background-size: cover;
+  }
+}
